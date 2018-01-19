@@ -253,10 +253,10 @@ public class APITestServlet extends HttpServlet {
             buf.append(" &nbsp;&nbsp;\n");
         }
         buf.append("<a style='font-weight:normal;font-size:14px;color:#777;' href='/doc/");
-        buf.append(className.replace('.', '/').replace('$', '.')).append(".html' target='_blank'>javadoc</a>&nbsp;&nbsp;\n");
+        buf.append(className.replace('.', '/').replace('$', '.')).append(".html' target='_blank'></a>&nbsp;&nbsp;\n");
         buf.append("<a style='font-weight:normal;font-size:14px;color:#777;' href='https://www.apollocurrency.com/");
         appendWikiLink(className.substring(className.lastIndexOf('.') + 1), buf);
-        buf.append("' target='_blank'>wiki</a>&nbsp;&nbsp;\n");
+        buf.append("' target='_blank'></a>&nbsp;&nbsp;\n");
         buf.append("&nbsp;&nbsp;&nbsp;\n<input type='checkbox' class='api-call-sel-ALL' ");
         buf.append("id='api-call-sel-").append(requestType).append("'>\n");
         buf.append("</span>\n");
