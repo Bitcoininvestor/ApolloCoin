@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FBitcoininvestor%2FApolloCoin.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FBitcoininvestor%2FApolloCoin?ref=badge_shield)
+
 ----
 # Nxt Blockchain Creation Kit #
 
@@ -108,3 +110,7 @@ the coin name and software name in nxt/Nxt.java, customizing the UI, etc.
 Such customization work should be done by a competent developer, and is beyond
 the scope of this document.
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FBitcoininvestor%2FApolloCoin.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FBitcoininvestor%2FApolloCoin?ref=badge_large)
